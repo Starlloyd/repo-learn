@@ -1,0 +1,5 @@
+# THIS CODE ILLUSTRATE PREDICTION WITH LINEAR REGRESSION
+
+- matplotlib
+- numpy
+- pandas
